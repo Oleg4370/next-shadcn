@@ -1,3 +1,4 @@
+import { ThemeTogglerButton } from "@/components/theme-toggler-btn";
 import Image from "next/image";
 
 export default function Home() {
