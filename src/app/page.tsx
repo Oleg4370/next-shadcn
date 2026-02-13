@@ -51,7 +51,7 @@ export default function Home() {
             <h2 className="text-xl font-semibold leading-10 tracking-tight">
               Available Pages:
             </h2>
-            <ul className="list-disc pl-5">
+            <ul className="list-disc pl-5 text-left">
               <li>
                 <LinkWrapper link="/login">Login page</LinkWrapper>
               </li>
