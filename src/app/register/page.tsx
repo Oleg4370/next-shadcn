@@ -1,10 +1,10 @@
-import { LoginForm } from "@/components/forms";
+import { RegisterForm } from "@/components/forms";
 import { PageWrapper } from "@/components/page-wrapper";
 
-export default function Login() {
+export default function Register() {
   return (
     <PageWrapper>
-      <LoginForm />
+      <RegisterForm />
     </PageWrapper>
   );
 }
