@@ -1,0 +1,174 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "full_name": "John Doe",
+      "call_sign": "JD",
+      "token_number": "12345",
+      "date_of_birth": "1990-01-01",
+      "registration_date": "2022-06-01",
+      "phone": "380991234455",
+      "rank": "Officer",
+      "position": "Водій-електрик",
+      "contact_person": {
+        "full_name": "Поліна",
+        "relationship": "Дружина",
+        "phone": "380991234455"
+      },
+      "work_email": "john.doe@company.com"
+    },
+    {
+      "id": 2,
+      "full_name": "Thomas Anderson",
+      "call_sign": "Neo",
+      "token_number": "12346",
+      "date_of_birth": "1991-02-01",
+      "registration_date": "2023-05-01",
+      "phone": "380991114455",
+      "rank": "Officer",
+      "position": "Водій-електрик",
+      "contact_person": {
+        "full_name": "Вікторія",
+        "relationship": "Дружина",
+        "phone": "380991114455"
+      },
+      "work_email": "thomas.anderson@company.com"
+    },
+    {
+      "id": 3,
+      "full_name": "Thomas Anderson",
+      "call_sign": "Neo",
+      "token_number": "123456",
+      "date_of_birth": "1991-02-01",
+      "registration_date": "2023-05-01",
+      "phone": "380991114455",
+      "rank": "Sergeant",
+      "position": "Санітар-стрілець",
+      "contact_person": {
+        "full_name": "Петро Анатолійович",
+        "relationship": "Батько",
+        "phone": "380991114455"
+      },
+      "work_email": "thomas.anderson@company.com"
+    },
+    {
+      "id": 4,
+      "full_name": "Philip Morris",
+      "call_sign": "Smoker",
+      "token_number": "12347",
+      "date_of_birth": "1992-03-01",
+      "registration_date": "2023-06-01",
+      "phone": "380991114466",
+      "rank": "Sergeant",
+      "position": "Санітар-стрілець",
+      "contact_person": {
+        "full_name": "Степанія Вікторівна",
+        "relationship": "Мама",
+        "phone": "380991114455"
+      },
+      "work_email": "philip.morris@company.com"
+    },
+    {
+      "id": 5,
+      "full_name": "John Rambo",
+      "call_sign": "Killer",
+      "token_number": "12348",
+      "date_of_birth": "1993-06-01",
+      "registration_date": "2023-06-01",
+      "phone": "380992224466",
+      "rank": "Captain",
+      "position": "Командир відділення",
+      "contact_person": {
+        "full_name": "Приходько Олівія",
+        "relationship": "Сестра",
+        "phone": "380999914455"
+      },
+      "work_email": "john.rambo@company.com"
+    },
+    {
+      "id": 6,
+      "full_name": "Lt. Aldo Raine",
+      "call_sign": "Basterd",
+      "token_number": "12349",
+      "date_of_birth": "1989-06-01",
+      "registration_date": "2022-02-01",
+      "phone": "380997774466",
+      "rank": "Cadet",
+      "position": "Стрілець",
+      "contact_person": {
+        "full_name": "Редис Тамара Степанівна",
+        "relationship": "Сестра",
+        "phone": "380999914455"
+      },
+      "work_email": "aldo.raine@company.com"
+    },
+    {
+      "id": 7,
+      "full_name": "Oskar Schindler",
+      "call_sign": "Basterd",
+      "token_number": "12350",
+      "date_of_birth": "1989-06-01",
+      "registration_date": "2022-02-01",
+      "phone": "380997774466",
+      "rank": "Cadet",
+      "position": "Стрілець",
+      "contact_person": {
+        "full_name": "Редис Тамара Степанівна",
+        "relationship": "Сестра",
+        "phone": "380999914455"
+      },
+      "work_email": "aldo.raine@company.com"
+    },
+    {
+      "id": 8,
+      "full_name": "Alan Turing",
+      "call_sign": "Фіксік",
+      "token_number": "123545",
+      "date_of_birth": "1987-03-03",
+      "registration_date": "2022-02-02",
+      "phone": "380997774466",
+      "rank": "Cadet",
+      "position": "Майстер",
+      "contact_person": {
+        "full_name": "Віктор Миколайович",
+        "relationship": "Брат",
+        "phone": "380679914455"
+      },
+      "work_email": "alan.turing@company.com"
+    },
+    {
+      "id": 9,
+      "full_name": "Jojo Rabbit",
+      "call_sign": "Кріль",
+      "token_number": "123556",
+      "date_of_birth": "1995-01-01",
+      "registration_date": "2024-02-02",
+      "phone": "380994433466",
+      "rank": "Cadet",
+      "position": "Стрілець",
+      "contact_person": {
+        "full_name": "Вікторія",
+        "relationship": "мама",
+        "phone": "380679914455"
+      },
+      "work_email": "jojo.rabbit@company.com"
+    },
+    {
+      "id": 10,
+      "full_name": "Hendrik Hoefgen",
+      "call_sign": "Гофа",
+      "token_number": "345322",
+      "date_of_birth": "2000-10-10",
+      "registration_date": "2023-06-06",
+      "phone": "380676767466",
+      "rank": "Cadet",
+      "position": "Стрілець",
+      "contact_person": {
+        "full_name": "Прохасько Олександра Вікторівна",
+        "relationship": "мама",
+        "phone": "380678814455"
+      },
+      "work_email": "hendrik@company.com"
+    }
+  ]
+}
