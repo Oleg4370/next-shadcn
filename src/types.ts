@@ -1,6 +1,6 @@
 import type { RankType } from "@/lib/const";
 
-export interface User {
+export interface UserType {
   id: number;
   full_name: string;
   call_sign: string;
@@ -18,4 +18,8 @@ export interface ContactPersonType {
   full_name: string;
   relationship: string;
   phone: string;
+}
+
+export interface DBType {
+  users: UserType[];
 }

@@ -63,6 +63,9 @@ export default function Home() {
               <li>
                 <LinkWrapper link="/register">Registration page</LinkWrapper>
               </li>
+              <li>
+                <LinkWrapper link="/users">Users page</LinkWrapper>
+              </li>
             </ul>
           </div>
         </div>
